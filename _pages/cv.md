@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download my CV here](http://meysamfozi.github.io/files/CV_Meysam_981009.pdf)
+
 {% include base_path %}
 
 Education
