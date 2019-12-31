@@ -13,26 +13,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Shahid Beheshti University, 2016
-* M.S. in Information Technology, University of Tehran, 2017
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.S. in Information Technology, University of Tehran, 2017
+* B.S. in Computer Engineering, Shahid Beheshti University, 2016
 
 Work experience
 ======
-* Summer 2015: Junior Data Analyst
+* April-October 2019: Junior Data Analyst
   * Freelance
   * Duties included: information extraction, big data analytics
-  * Supervisor: Freelance
 
-* Summer 2015: Senior back-end developer
+* April 2019-now: Senior back-end developer
   * Faraz
   * Duties included: design and implementation of a web application
 
-* Fall 2015: junior full-stack developer
+* June 2016 - March 2019: junior full-stack developer
   * Zaeim
   * Duties included: design and implementation of a web application
   
-* Fall 2015: Intern
+* June 2015: Intern
   * AryanSat
   * Duties included: Deploy a local networking for the company
   * Supervisor: Dr. Asad Vakili
