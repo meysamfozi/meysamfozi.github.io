@@ -17,24 +17,46 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Junior Data Analyst
+  * Freelance
+  * Duties included: information extraction, big data analytics
+  * Supervisor: Freelance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Senior back-end developer
+  * Faraz
+  * Duties included: design and implementation of a web application
+
+* Fall 2015: junior full-stack developer
+  * Zaeim
+  * Duties included: design and implementation of a web application
+  
+* Fall 2015: Intern
+  * AryanSat
+  * Duties included: Deploy a local networking for the company
+  * Supervisor: Dr. Asad Vakili
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data science
+  * Python
+  * Numpy
+  * Pandas
+  * Matplotlib
+  * Scikit-learn
+* Deep learning
+  * Tensorflow
+  * Keras
+  * PyTorch
+  * Caffe
+* Big data
+  * Java
+  * Scala
+  * Hadoop
+  * Spark
+* Documentation
+  * LaTeX
+  * Doxygen
+  * Wiki
 
 Publications
 ======
@@ -42,11 +64,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +76,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
