@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Shahid Beheshti University, Computer Science and Engineering Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a teacher assistant and prepared homeworks and solutions, and ran hands-on sessions for C++ programming.
 
 Heading 1
 ======

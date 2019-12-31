@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Discrete Mathematics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Shahid Beheshti University, Computer Science and Engineering Department"
+date: 2014-01-01
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a teacher assistant holding additional sessions for teaching combinatorics, and also prepared homeworks and solutions, and helped evaluating students throughout the course.
 
 Heading 1
 ======
