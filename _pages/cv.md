@@ -13,47 +13,41 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * M.S. in Artificial Intelligence, Sharif University of Technology, 2022 (expected) -->
 * M.S. in Information Technology, University of Tehran, 2017
 * B.S. in Computer Engineering, Shahid Beheshti University, 2016
 
 Work experience
 ======
-* April-October 2019: Junior Data Analyst
+* April-October 2019: Data Analyst
   * Freelance
   * Duties included: information extraction, big data analytics
+<!-- * Supervisor: Mr. Ali Razmkhah -->
 
-* April 2019-now: Senior back-end developer
+* April 2019-now: Back-end developer
   * Faraz
   * Duties included: design and implementation of a web application
+<!-- * Supervisor: Mr. Hojjat Esmaeili -->
 
-* June 2016 - March 2019: junior full-stack developer
+* June 2016 - March 2019: Full-stack developer
   * Zaeim
   * Duties included: design and implementation of a web application
+<!-- * Supervisor: Mr. Salman Mohammadipanah -->
   
 * June 2015: Intern
   * AryanSat
-  * Duties included: Deploy a local networking for the company
+  * Duties included: deploy a local networking for the company
   * Supervisor: Dr. Asad Vakili
   
 Skills
 ======
-* Data science
+* Programming languages
+  * C++
   * Python
-  * Numpy
-  * Pandas
-  * Matplotlib
-  * Scikit-learn
-* Deep learning
-  * Tensorflow
-  * Keras
-  * PyTorch
-  * Caffe
-* Big data
   * Java
-  * Scala
-  * Hadoop
-  * Spark
+<!--  * Scala
+  * Nodejs
+  * Go -->
 * Documentation
   * LaTeX
   * Doxygen
