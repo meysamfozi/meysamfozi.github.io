@@ -45,9 +45,9 @@ Skills
   * C++
   * Python
   * Java
-<!--  * Scala
+  * Scala
   * Nodejs
-  * Go -->
+  * Go
 * Documentation
   * LaTeX
   * Doxygen
