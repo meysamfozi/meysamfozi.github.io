@@ -17,7 +17,7 @@ Education
 ======
 <!-- * M.S. in Artificial Intelligence, Sharif University of Technology, 2022 (expected) -->
 * M.S. in Information Technology, [University of Tehran](https://ut.ac.ir/), Tehran, Iran 2017
-  * Member of [Natural Language and Text processing laboratory, University of Tehran](http://nlp.ut.ac.ir/)
+  * Member of [Natural Language and Text processing laboratory](http://nlp.ut.ac.ir/)
 * B.S. in Computer Engineering, [Shahid Beheshti University](https://sbu.ac.ir/), Tehran, Iran, 2016
 * Diploma in Mathematics and Physics, [Hakim Nezami High School](http://mandegarsch.ir/), Qom, Iran, 2012
 
