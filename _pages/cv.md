@@ -17,6 +17,7 @@ Education
 ======
 <!-- * M.S. in Artificial Intelligence, Sharif University of Technology, 2022 (expected) -->
 * M.S. in Information Technology, [University of Tehran](https://ut.ac.ir/), Tehran, Iran 2017
+  * Member of [Natural Language and Text processing laboratory, University of Tehran](http://nlp.ut.ac.ir/)
 * B.S. in Computer Engineering, [Shahid Beheshti University](https://sbu.ac.ir/), Tehran, Iran, 2016
 * Diploma in Mathematics and Physics, [Hakim Nezami High School](http://mandegarsch.ir/), Qom, Iran, 2012
 
@@ -27,16 +28,12 @@ Work experience
   * Duties included: software architecture consultant, software quality assurance specialist
 
 * April-October 2019: Data Engineer
-  * Self-Employed
+  * Freelance
   * Duties included: information extraction from the web using Scrapy, MongoDB, Django
-
-* January 2017: Researcher
-  * [Natural Language and Text processing laboratory, University of Tehran](http://nlp.ut.ac.ir/)
-  * Duties included: Sentiment Analysis, Text Summarization, Named Entity Recognition, Topic Modeling, Question Answering
   
 * June 2016 - February 2020: Full-stack Developer
-  * Self-Employed
-  * Duties included: design and implementation of a web apps using PHP, Python
+  * Freelance
+  * Duties included: design and implementation of web services using PHP, Python, MySQL
   
 * June 2015: Intern
   * [Aryan Satellite](http://www.aryansat.ir/)
@@ -63,29 +60,12 @@ Certificates
   
 Teaching Assistance Experience
 ======
-* February 2016: Software Engineering
-  * Shahid Beheshti University
-  * Dr. Mahmmoud Neshati
-  
-* June 2015: Artiicial Intelligence
-  * Shahid Beheshti University
-  * Dr. Mehrnoush Shamsfard
-  
-* June 2015, October 2013: Discrete Mathematics
-  * Shahid Beheshti University
-  * Dr. Farshad Safaei
-  
-* June 2013: Introduction to Programming
-  * Shahid Beheshti University
-  * Dr. Ahmad Mahmoudi
-  
+* Shahid Beheshti University
+  * Artificial Intelligence, Dr. Mehrnoush Shamsfard (June 2015)
+  * Software Engineering, Dr. Mahmoud Neshati (February 2016)
+  * Discrete Mathematics, Dr. Farshad Safaeib (June 2015, October 2013)
+  * Introduction to Programming, Dr. Ahmad Mahmoudi Aznaveh (June 2013)
+
 Publications
 ======
-* January 2020: 1000 Solved Problems in Discrete Mathematics
-  * Farshad Safaei, Meysam Fozi
-  
-* January 2020: Introduction to Software Enginerring
-  * Alireza Shameli, Meysam Fozi
-  
-* January 2020: Secure Software Development
-  * Alireza Shameli, Meysam Fozi
+* 1000 Solved Problems in Discrete Mathematics; Farshad Safaei, Meysam Fozi
