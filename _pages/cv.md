@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+* [Snapp!](http://snapp.ir/) (Oct 2023 — Jan 2024)
+  * Data Scientist / Address Team
+
 * [Rayanesh Mobin Hooshyar](http://hooshyara.ir/) (Aug 2021 — Mar 2022)
   * Data Scientist / Quantitative Researcher
 
