@@ -18,9 +18,6 @@ Education
 ======
 * Ph.D. in Artificial Intelligence, [Amirkabir University of Technology](http://aut.ac.ir/), Tehran, Iran (2022-now)
 * M.Sc. in Computer Engineering, AI, [Shahid Beheshti University](https://sbu.ac.ir/), Tehran, Iran (2020-2022)
-<!-- * M.Sc. in Information Technology, [University of Tehran](https://ut.ac.ir/), Tehran, Iran, 2017
-  * Member of [Natural Language and Text processing laboratory](http://nlp.ut.ac.ir/)
--->
 * B.Sc. in Computer Engineering, [Shahid Beheshti University](https://sbu.ac.ir/), Tehran, Iran (2012-2016)
 * Diploma in Mathematics and Physics, [Hakim Nezami High School](http://mandegarsch.ir/), Qom, Iran (2008-2012)
 
